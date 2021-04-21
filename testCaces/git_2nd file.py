@@ -1,2 +1,1 @@
-print("giitttuuu")
-print("giitttuuu_situuuuuu")
+print("Git change")
