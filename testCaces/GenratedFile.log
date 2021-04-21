@@ -1,0 +1,84 @@
+2021-03-31 12:55:04,277 - SuperClasses.Logs - INFO - Opening the Registration Page
+2021-03-31 12:55:21,642 - SuperClasses.Logs - INFO - Entering first name >> Ankit
+2021-03-31 12:55:22,157 - SuperClasses.Logs - INFO - Entering last name >> Tripathi
+2021-03-31 12:55:22,332 - SuperClasses.Logs - INFO - Entering email >> ankit.deepblue@gmail.com
+2021-03-31 12:55:22,532 - SuperClasses.Logs - INFO - Entering Confirm email >> ankit.deepblue@gmail.com
+2021-03-31 12:55:22,861 - SuperClasses.Logs - INFO - Entering username >> ankit.deepBlue
+2021-03-31 12:55:23,086 - SuperClasses.Logs - INFO - Selecting 'Cointry' from the dropdown >> India
+2021-03-31 12:55:23,286 - SuperClasses.Logs - INFO - Selecting 'TimeZone' from the dropdown >> (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+2021-03-31 12:55:23,493 - SuperClasses.Logs - INFO - News - CheckBox is selected
+2021-03-31 12:55:23,493 - SuperClasses.Logs - INFO - News check box desleting
+2021-03-31 12:55:23,624 - SuperClasses.Logs - INFO - check box deslected successfuly
+2021-03-31 12:58:14,108 - SuperClasses.Logs - INFO - Opening the Registration Page
+2021-03-31 12:58:27,790 - SuperClasses.Logs - INFO - Entering first name >> Ankit
+2021-03-31 12:58:28,707 - SuperClasses.Logs - INFO - Entering last name >> Tripathi
+2021-03-31 12:58:28,923 - SuperClasses.Logs - INFO - Entering email >> ankit.deepblue@gmail.com
+2021-03-31 12:58:29,176 - SuperClasses.Logs - INFO - Entering Confirm email >> ankit.deepblue@gmail.com
+2021-03-31 12:58:29,445 - SuperClasses.Logs - INFO - Entering username >> ankit.deepBlue
+2021-03-31 12:58:29,692 - SuperClasses.Logs - INFO - Selecting 'Cointry' from the dropdown >> India
+2021-03-31 12:58:29,867 - SuperClasses.Logs - INFO - Selecting 'TimeZone' from the dropdown >> (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+2021-03-31 12:58:30,143 - SuperClasses.Logs - INFO - News - CheckBox is selected
+2021-03-31 12:58:30,143 - SuperClasses.Logs - INFO - News check box desleting
+2021-03-31 12:58:30,273 - SuperClasses.Logs - INFO - check box deslected successfuly
+2021-03-31 12:59:27,662 - SuperClasses.Logs - INFO - Opening the Registration Page
+2021-03-31 12:59:39,445 - SuperClasses.Logs - INFO - Entering first name >> Ankit
+2021-03-31 12:59:39,792 - SuperClasses.Logs - INFO - Entering last name >> Tripathi
+2021-03-31 12:59:40,018 - SuperClasses.Logs - INFO - Entering email >> ankit.deepblue@gmail.com
+2021-03-31 12:59:40,319 - SuperClasses.Logs - INFO - Entering Confirm email >> ankit.deepblue@gmail.com
+2021-03-31 12:59:40,664 - SuperClasses.Logs - INFO - Entering username >> ankit.deepBlue
+2021-03-31 12:59:40,924 - SuperClasses.Logs - INFO - Selecting 'Cointry' from the dropdown >> India
+2021-03-31 12:59:41,097 - SuperClasses.Logs - INFO - Selecting 'TimeZone' from the dropdown >> (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+2021-03-31 12:59:41,338 - SuperClasses.Logs - INFO - News - CheckBox is selected
+2021-03-31 12:59:41,338 - SuperClasses.Logs - INFO - News check box desleting
+2021-03-31 12:59:41,478 - SuperClasses.Logs - INFO - check box deslected successfuly
+2021-03-31 13:00:39,872 - SuperClasses.Logs - INFO - Opening the Registration Page
+2021-03-31 13:00:52,512 - SuperClasses.Logs - INFO - Entering first name >> Ankit
+2021-03-31 13:00:53,427 - SuperClasses.Logs - INFO - Entering last name >> Tripathi
+2021-03-31 13:00:53,848 - SuperClasses.Logs - INFO - Entering email >> ankit.deepblue@gmail.com
+2021-03-31 13:00:54,081 - SuperClasses.Logs - INFO - Entering Confirm email >> ankit.deepblue@gmail.com
+2021-03-31 13:00:54,348 - SuperClasses.Logs - INFO - Entering username >> ankit.deepBlue
+2021-03-31 13:00:54,670 - SuperClasses.Logs - INFO - Selecting 'Cointry' from the dropdown >> India
+2021-03-31 13:00:54,928 - SuperClasses.Logs - INFO - Selecting 'TimeZone' from the dropdown >> (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+2021-03-31 13:00:55,118 - SuperClasses.Logs - INFO - News - CheckBox is selected
+2021-03-31 13:00:55,118 - SuperClasses.Logs - INFO - News check box desleting
+2021-03-31 13:00:55,330 - SuperClasses.Logs - INFO - check box deslected successfuly
+2021-03-31 13:00:55,330 - SuperClasses.Logs - INFO - Entering password >> 
+2021-03-31 13:00:55,537 - SuperClasses.Logs - INFO - Entering confirm password >>
+2021-03-31 13:00:55,737 - SuperClasses.Logs - INFO - Selecting company details >> Other
+2021-03-31 13:00:55,887 - SuperClasses.Logs - INFO - Selecting main activity details >> Technical developer
+2021-03-31 13:00:56,074 - SuperClasses.Logs - INFO - Selecting how many ppl work >> I'm working alone
+2021-03-31 13:00:56,225 - SuperClasses.Logs - INFO - Clicking register button
+2021-03-31 13:01:31,551 - SuperClasses.Logs - INFO - Opening the Registration Page
+2021-03-31 13:01:43,474 - SuperClasses.Logs - INFO - Entering first name >> Ankit
+2021-03-31 13:01:43,663 - SuperClasses.Logs - INFO - Entering last name >> Tripathi
+2021-03-31 13:01:43,833 - SuperClasses.Logs - INFO - Entering email >> ankit.deepblue@gmail.com
+2021-03-31 13:01:44,082 - SuperClasses.Logs - INFO - Entering Confirm email >> ankit.deepblue@gmail.com
+2021-03-31 13:01:44,350 - SuperClasses.Logs - INFO - Entering username >> ankit.deepBlue
+2021-03-31 13:01:44,621 - SuperClasses.Logs - INFO - Selecting 'Cointry' from the dropdown >> India
+2021-03-31 13:01:44,782 - SuperClasses.Logs - INFO - Selecting 'TimeZone' from the dropdown >> (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+2021-03-31 13:01:45,000 - SuperClasses.Logs - INFO - News - CheckBox is selected
+2021-03-31 13:01:45,000 - SuperClasses.Logs - INFO - News check box desleting
+2021-03-31 13:01:45,584 - SuperClasses.Logs - INFO - check box deslected successfuly
+2021-03-31 13:01:45,584 - SuperClasses.Logs - INFO - Entering password >> 
+2021-03-31 13:01:45,804 - SuperClasses.Logs - INFO - Entering confirm password >>
+2021-03-31 13:01:45,986 - SuperClasses.Logs - INFO - Selecting company details >> Other
+2021-03-31 13:01:46,156 - SuperClasses.Logs - INFO - Selecting main activity details >> Technical developer
+2021-03-31 13:01:46,351 - SuperClasses.Logs - INFO - Selecting how many ppl work >> I'm working alone
+2021-03-31 13:01:46,513 - SuperClasses.Logs - INFO - Clicking register button
+2021-03-31 13:03:34,306 - SuperClasses.Logs - INFO - Opening the Registration Page
+2021-03-31 13:03:44,269 - SuperClasses.Logs - INFO - Entering first name >> Ankit
+2021-03-31 13:03:44,437 - SuperClasses.Logs - INFO - Entering last name >> Tripathi
+2021-03-31 13:03:44,604 - SuperClasses.Logs - INFO - Entering email >> ankit.deepblue@gmail.com
+2021-03-31 13:03:44,994 - SuperClasses.Logs - INFO - Entering Confirm email >> ankit.deepblue@gmail.com
+2021-03-31 13:03:45,257 - SuperClasses.Logs - INFO - Entering username >> ankit.deepBlue
+2021-03-31 13:03:45,496 - SuperClasses.Logs - INFO - Selecting 'Cointry' from the dropdown >> India
+2021-03-31 13:03:45,647 - SuperClasses.Logs - INFO - Selecting 'TimeZone' from the dropdown >> (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+2021-03-31 13:03:45,891 - SuperClasses.Logs - INFO - News - CheckBox is selected
+2021-03-31 13:03:45,892 - SuperClasses.Logs - INFO - News check box desleting
+2021-03-31 13:03:46,064 - SuperClasses.Logs - INFO - check box deslected successfuly
+2021-03-31 13:03:46,065 - SuperClasses.Logs - INFO - Entering password >> 
+2021-03-31 13:03:46,270 - SuperClasses.Logs - INFO - Entering confirm password >>
+2021-03-31 13:03:46,458 - SuperClasses.Logs - INFO - Selecting company details >> Other
+2021-03-31 13:03:46,620 - SuperClasses.Logs - INFO - Selecting main activity details >> Technical developer
+2021-03-31 13:03:46,806 - SuperClasses.Logs - INFO - Selecting how many ppl work >> I'm working alone
+2021-03-31 13:03:46,967 - SuperClasses.Logs - INFO - Clicking register button
