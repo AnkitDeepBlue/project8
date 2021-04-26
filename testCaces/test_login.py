@@ -6,7 +6,6 @@ from pageClasses.loginPageClass import *
 
 
 class TestLogin(baseclass):
-
     @pytest.mark.parametrize("userid, password",[("standard_user","secret_sauce"),("standard_user","secret_sauce")])
     def test_loginFun(self, userid, password):
         loginPage.access_url(self)
@@ -31,4 +30,18 @@ class TestLogin(baseclass):
                 loginPage.clickLogout(self)
                 loginPage.verifyTittle(self, "Swag Labs")
 
+    @pytest.mark.skip
+    def test_printFormData(self):
+        path = "D:\Pycharm\Myexcel\details_new.xlsx"
+        max_row = myexel.maxrow(self, path, "Sheet1")
+        max_col = myexel.maxcol(self, path, "Sheet1")
+        for r in range(2, max_row + 1):
+            for c in range(2, max_col + 1):
+                data_u = myexel.getCellValue(self, path, r, 1)
+                data_p = myexel.getCellValue(self, path, r, 2)
+                data_p2 = myexel.getCellValue(self, path, r, 3)
+                print(data_u, data_p, data_p2)
+
+    def test_verifyLog(self):
+        loginPage.accessLog(self, "Title")
 

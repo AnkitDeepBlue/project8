@@ -55,3 +55,11 @@ class loginPage:
 
 
 
+    def accessLog(self, text):
+        with open('C:/Users/ovonel/PycharmProjects/pythonProject9/testCaces/GenratedFile.log', 'r') as reader:
+            for line in reader:
+                if text in line:
+                    print("text found in log file")
+                    break
+                else:
+                    print("Text not found in log file")

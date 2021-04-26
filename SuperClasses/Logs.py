@@ -4,7 +4,7 @@ class loggingClass:
 
     @staticmethod
     def logGen():
-        logger = logging.getLogger(__name__)
+        logger = logging.getLogger()
 
         # Creating Path
         FileHandler = logging.FileHandler("GenratedFile.log")
@@ -16,7 +16,7 @@ class loggingClass:
         logger.addHandler(FileHandler)
 
         # SetLevel
-        logger.setLevel(logging.DEBUG)
+        logger.setLevel(logging.INFO)
 
         return logger
 
